@@ -7,8 +7,8 @@
 \pard\pardeftab720\sl400
 
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Git is a distributed version control system.\
-Git is free software distributed under the GPL.
-\fs26 \cf4 \cb5 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \
-}
+Git is a distributed version control system.\
+Git is free software distributed under the GPL.\
+\pard\pardeftab720\sl400
+\cf4 \cb5 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec4 Git has a mutable index called stage.}
