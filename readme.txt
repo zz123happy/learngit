@@ -10,5 +10,11 @@
 Git is a distributed version control system.\
 Git is free software distributed under the GPL.\
 \pard\pardeftab720\sl400
+\cf2 \cb3 \expnd0\expndtw0\kerning0
+Git has a mutable index called stage.\
+\pard\pardeftab720\sl400
 \cf4 \cb5 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 Git has a mutable index called stage.}
+\outl0\strokewidth0 \strokec4 Creating a new branch is quick.
+\fs26 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \
+}
